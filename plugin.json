@@ -1,0 +1,15 @@
+{
+  "name": "keei-skills",
+  "description": "A collection of agent skills for planning, development, and tooling. Includes TDD, PRD writing, issue triage, refactoring, architecture improvement, and more.",
+  "version": "1.0.0",
+  "author": {
+    "name": "keei",
+    "url": "https://github.com/keei"
+  },
+  "homepage": "https://github.com/keei/skills",
+  "repository": "https://github.com/keei/skills",
+  "license": "MIT",
+  "keywords": ["tdd", "planning", "prd", "refactor", "skills", "agent", "architecture"],
+  "agents": "agents/",
+  "mcpServers": ".mcp.json"
+}
