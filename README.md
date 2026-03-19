@@ -1,4 +1,4 @@
-# Agent Skills
+# agent-kei
 
 A collection of agent skills that extend capabilities across planning, development, and tooling.
 
